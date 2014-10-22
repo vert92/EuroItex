@@ -17,8 +17,8 @@ namespace EuroItex
                 "~/Content/prettyPhoto.css",
                 "~/Content/main.css",
                 "~/Content/reponsive.css"
-
                 ));
+
             bundles.Add(new ScriptBundle("~/Scripts/js").Include(
               "~/Scripts/jquery.js",
               "~/Scripts/bootstrap.min.js",
@@ -26,7 +26,7 @@ namespace EuroItex
               "~/Scripts/jquery.isotope.min.js",
               "~/Scripts/main.js",
               "~/Scripts/wow.min.js"
-                ));
+              ));
         }
     }
 }
