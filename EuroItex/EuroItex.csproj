@@ -218,6 +218,7 @@
     <Content Include="Content\images\search_icon.png" />
     <Content Include="Content\images\services\bg_services.jpg" />
     <Content Include="Content\images\services\bg_services.png" />
+    <Content Include="Content\images\services\carpet-roll.jpg" />
     <Content Include="Content\images\services\services1.png" />
     <Content Include="Content\images\services\services2.png" />
     <Content Include="Content\images\services\services3.png" />
@@ -233,10 +234,21 @@
     <Content Include="Content\images\slider\bg1.jpg" />
     <Content Include="Content\images\slider\bg2.jpg" />
     <Content Include="Content\images\slider\bg3.jpg" />
+    <Content Include="Content\images\slider\DSC_0005.JPG" />
+    <Content Include="Content\images\slider\DSC_0061.JPG" />
+    <Content Include="Content\images\slider\DSC_0074.JPG" />
+    <Content Include="Content\images\slider\DSC_1025.JPG" />
     <Content Include="Content\images\slider\img1.png" />
     <Content Include="Content\images\slider\img2.png" />
     <Content Include="Content\images\slider\img3.png" />
     <Content Include="Content\images\slider_one.jpg" />
+    <Content Include="Content\images\staze\staza1.jpg" />
+    <Content Include="Content\images\staze\staza2.jpg" />
+    <Content Include="Content\images\staze\staza3.jpg" />
+    <Content Include="Content\images\staze\staza4.jpg" />
+    <Content Include="Content\images\staze\staza5.jpg" />
+    <Content Include="Content\images\staze\staza6.jpg" />
+    <Content Include="Content\images\staze\staza7.jpg" />
     <Content Include="Content\images\tab1.png" />
     <Content Include="Content\images\tab2.png" />
     <Content Include="Content\images\team-member.jpg" />
@@ -271,9 +283,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="BundleConfig.cs" />
     <Compile Include="Controllers\AboutController.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PortfolioController.cs" />
     <Compile Include="Controllers\ServicesController.cs" />
@@ -296,6 +309,7 @@
     <Content Include="Views\About\Index.cshtml" />
     <Content Include="Views\Services\Index.cshtml" />
     <Content Include="Views\Portfolio\Index.cshtml" />
+    <Content Include="Views\Contact\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

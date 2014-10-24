@@ -652,7 +652,7 @@ input.search-form:hover {
 }
 
 #services {
-  background: #000 url(../../Content/images/services/bg_services.png);
+  background: #000 url(../../Content/images/services/carpet-roll.jpg);
   background-size: cover;
 }
 
@@ -976,7 +976,7 @@ a.accordion-toggle  i{
 }
 
 #conatcat-info{
-  background: #fff url(../images/contact.png) no-repeat 90% 0;
+  background: #fff url("../../Content/images/contact.png") no-repeat 90% 0;
   padding: 30px 0;
 }
 
@@ -1889,7 +1889,7 @@ ul.social_icons li  a i{
 **************************/
 
 .gmap-area {
-  background-image: url("../images/map.jpg");
+  background-image: url("../../Content/images/map.jpg");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1924,6 +1924,7 @@ ul.social_icons li  a i{
 
 #contact-page{
   padding-top: 0;
+  background-color:rgba(177, 212, 242, 0.30);
 }
 
 #contact-page .contact-form 

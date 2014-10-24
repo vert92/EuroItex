@@ -13,8 +13,8 @@ namespace EuroItex
             bundles.Add(new StyleBundle("~/Content/css").Include(
                 "~/Content/bootstrap.min.css",
                 "~/Content/font-awesome.css",
+                "~/Content/prettyPhoto.css" ,
                 "~/Content/animate.min.css",
-                "~/Content/prettyPhoto.css",
                 "~/Content/main.css",
                 "~/Content/reponsive.css"
                 ));
@@ -27,6 +27,13 @@ namespace EuroItex
               "~/Scripts/main.js",
               "~/Scripts/wow.min.js"
               ));
+            bundles.Add(new ScriptBundle("~/Scripts/portfolio").Include(
+             "~/Scripts/jquery.js",
+             "~/Scripts/bootstrap.min.js",
+             "~/Scripts/jquery.prettyPhoto.js",
+             "~/Scripts/main.js",
+             "~/Scripts/wow.min.js"
+             ));
         }
     }
 }

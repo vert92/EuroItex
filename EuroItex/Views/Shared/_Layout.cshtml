@@ -27,9 +27,7 @@
                             <ul class="social-share">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                            
                             </ul>
                             <div class="search">
                                 <form role="form">
@@ -51,16 +49,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand"  href="/Home"><img src="~/Content/images/logo.png" alt="logo"></a>
                 </div>
 
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active">@Html.ActionLink("Home", "Index", "Home")</li>
-                        <li>@Html.ActionLink("About Us", "Index", "About")</li>
-                        <li>@Html.ActionLink("Services", "Index", "Services")</li>
-                        <li>@Html.ActionLink("Portfolio", "Index", "Portfolio")</li>
-                        <li>@Html.ActionLink("Contact", "Index", "Contact")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Home" ? "active" : "")">@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "About" ? "active" : "")">@Html.ActionLink("About", "Index", "About")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Services" ? "active" : "")">@Html.ActionLink("Services", "Index", "Services")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Portfolio" ? "active" : "")">@Html.ActionLink("Portfolio", "Index", "Portfolio")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Contact" ? "active" : "")">@Html.ActionLink("Contact", "Index", "Contact")</li>
                     </ul>
                 </div>
             </div><!--/.container-->
@@ -69,9 +67,7 @@
     </header><!--/header-->
 
    
-
         @RenderBody()
-
 
 
         <footer id="footer" class="midnight-blue">
@@ -91,7 +87,14 @@
                 </div>
             </div>
         </footer><!--/#footer-->
-
-    @Scripts.Render("~/Scripts/js")
+     @*@if ((string)ViewContext.RouteData.Values["Controller"] == "Portfolio")
+     {
+         @Scripts.Render("~/Scripts/portfolio")
+     }*@
+    
+     
+         @Scripts.Render("~/Scripts/js")
+     
+    
 </body>
 </html>
