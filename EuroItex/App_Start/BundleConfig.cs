@@ -21,19 +21,19 @@ namespace EuroItex
 
             bundles.Add(new ScriptBundle("~/Scripts/js").Include(
               "~/Scripts/jquery.js",
-              "~/Scripts/bootstrap.min.js",
+               "~/Scripts/bootstrap.min.js",
               "~/Scripts/jquery.prettyPhoto.js",
               "~/Scripts/jquery.isotope.min.js",
               "~/Scripts/main.js",
               "~/Scripts/wow.min.js"
               ));
-            bundles.Add(new ScriptBundle("~/Scripts/portfolio").Include(
-             "~/Scripts/jquery.js",
-             "~/Scripts/bootstrap.min.js",
-             "~/Scripts/jquery.prettyPhoto.js",
-             "~/Scripts/main.js",
-             "~/Scripts/wow.min.js"
-             ));
+            //bundles.Add(new ScriptBundle("~/Scripts/portfolio").Include(
+            // "~/Scripts/jquery.js",
+            // "~/Scripts/bootstrap.min.js",
+            // "~/Scripts/jquery.prettyPhoto.js",
+            // "~/Scripts/main.js",
+            // "~/Scripts/wow.min.js"
+            // ));
         }
     }
 }

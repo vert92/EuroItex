@@ -218,6 +218,7 @@
     <Content Include="Content\images\search_icon.png" />
     <Content Include="Content\images\services\bg_services.jpg" />
     <Content Include="Content\images\services\bg_services.png" />
+    <Content Include="Content\images\services\carpet-cleaning-in1.jpg" />
     <Content Include="Content\images\services\carpet-roll.jpg" />
     <Content Include="Content\images\services\services1.png" />
     <Content Include="Content\images\services\services2.png" />
@@ -238,6 +239,7 @@
     <Content Include="Content\images\slider\DSC_0061.JPG" />
     <Content Include="Content\images\slider\DSC_0074.JPG" />
     <Content Include="Content\images\slider\DSC_1025.JPG" />
+    <Content Include="Content\images\slider\DSC_1096.JPG" />
     <Content Include="Content\images\slider\img1.png" />
     <Content Include="Content\images\slider\img2.png" />
     <Content Include="Content\images\slider\img3.png" />

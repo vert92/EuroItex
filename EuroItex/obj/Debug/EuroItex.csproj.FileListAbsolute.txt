@@ -13,7 +13,6 @@ C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\System.Web.Webpages.Depl
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\System.Web.Webpages.Razor.xml
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\System.Web.Helpers.xml
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\System.Web.Mvc.xml
-C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.csprojResolveAssemblyReference.cache
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.dll
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.pdb
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\Antlr3.Runtime.dll
@@ -48,3 +47,4 @@ D:\Desktop\EuroItex\EuroItex\bin\System.Web.Mvc.xml
 D:\Desktop\EuroItex\EuroItex\obj\Debug\EuroItex.csprojResolveAssemblyReference.cache
 D:\Desktop\EuroItex\EuroItex\obj\Debug\EuroItex.dll
 D:\Desktop\EuroItex\EuroItex\obj\Debug\EuroItex.pdb
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.csprojResolveAssemblyReference.cache
