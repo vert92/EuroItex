@@ -1953,6 +1953,7 @@ textarea#message{
 ****blog page css*****
 **********************/
 
+
 .widget {
   margin-bottom: 60px;
   padding-left: 0;
@@ -2482,11 +2483,17 @@ shortcodes page css
   padding: 0;
   margin: 0;
 }
+#bottom td {
+    width:120px;
+}
 
 #bottom ul li {
   display: block;
   padding: 5px 0;
+  margin-left:20px;
+
 }
+
 
 #bottom ul li a {
   color: #808080;
@@ -2498,6 +2505,9 @@ shortcodes page css
 
 #bottom .widget {
   margin-bottom: 0;
+}
+.rightwidget{
+    border-left:1px solid grey;
 }
 
 #footer {
