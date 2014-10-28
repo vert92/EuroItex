@@ -98,6 +98,9 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\images\carpets\carpet5.jpg" />
+    <Content Include="Content\images\carpets\carpet6.jpg" />
+    <Content Include="Content\images\carpets\carpet7.jpg" />
     <Content Include="Content\images\slider\about6.jpg" />
     <Content Include="Content\images\accordion1.png" />
     <Content Include="Content\images\ads\ad1.png" />
