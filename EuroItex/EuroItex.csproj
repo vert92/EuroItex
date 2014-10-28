@@ -98,6 +98,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\images\slider\about6.jpg" />
     <Content Include="Content\images\accordion1.png" />
     <Content Include="Content\images\ads\ad1.png" />
     <Content Include="Content\images\ads\ad2.png" />
@@ -255,7 +256,7 @@
     <Content Include="Content\images\slider\about1.jpg" />
     <Content Include="Content\images\slider\about2.jpg" />
     <Content Include="Content\images\slider\about3.jpg" />
-    <Content Include="Content\images\slider\about5.jpg" />
+    <Content Include="Content\images\slider\about7.jpg" />
     <Content Include="Content\images\slider\bg1.jpg" />
     <Content Include="Content\images\slider\bg3.jpg" />
     <Content Include="Content\images\slider\DSC_0005.JPG" />
