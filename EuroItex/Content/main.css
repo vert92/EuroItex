@@ -229,7 +229,7 @@ ul.social-share li a {
 }
 
 ul.social-share li a:hover {
-  background: #c52d2f;
+  background: rgb(3,151,241);
   color: #fff;
 }
 
@@ -1044,6 +1044,7 @@ a.accordion-toggle  i{
 
 #carousel-slider a i {
   border: 1px solid #777;
+  background:#bfbfbf;
   border-radius:50%;
   font-size: 28px;
   height: 50px;
@@ -1055,7 +1056,7 @@ a.accordion-toggle  i{
 }
 
 #carousel-slider a i:hover {
-  background:#bfbfbf;
+
   color:#fff;
   border: 1px solid #bfbfbf;
 }
@@ -1583,8 +1584,8 @@ ul.social_icons li  a i{
 .portfolio-filter > li a:hover,
 .portfolio-filter > li a.active{
   color:#fff;
-  background: #c52d2f;
-  border: 1px solid #c52d2f;
+  background: rgb(3,151,241);
+  border: 1px solid rgb(3,151,241);
   box-shadow: none;
   -webkit-box-shadow: none;
 }
@@ -2560,7 +2561,7 @@ shortcodes page css
     margin-top:70px;
 }
 #partnerlogo2{
-    margin-top:30px;
+    margin-top:50px;
 }
 
 #partnerlogo4{
@@ -2570,7 +2571,7 @@ shortcodes page css
     margin-top:35px;
 }
 #partnerlogo6 {
-     margin-top:70px;
+     margin-top:60px;
 }
 
 

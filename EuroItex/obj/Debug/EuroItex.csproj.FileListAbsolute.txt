@@ -48,3 +48,5 @@ D:\Desktop\EuroItex\EuroItex\obj\Debug\EuroItex.csprojResolveAssemblyReference.c
 D:\Desktop\EuroItex\EuroItex\obj\Debug\EuroItex.dll
 D:\Desktop\EuroItex\EuroItex\obj\Debug\EuroItex.pdb
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\Simplify.Mail.dll
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\bin\Simplify.Mail.xml
