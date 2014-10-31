@@ -104,10 +104,18 @@
     <Content Include="Content\images\carpets\carpet5.jpg" />
     <Content Include="Content\images\carpets\carpet6.jpg" />
     <Content Include="Content\images\carpets\carpet7.jpg" />
+    <Content Include="Content\images\ico\ba.png" />
+    <Content Include="Content\images\ico\gb.png" />
     <Content Include="Content\images\lights\light1.jpg" />
     <Content Include="Content\images\lights\light2.jpg" />
     <Content Include="Content\images\partners\artcarpet.png" />
     <Content Include="Content\images\service\logoeur.png" />
+    <Content Include="Content\images\service\service1.jpg" />
+    <Content Include="Content\images\service\service2.jpg" />
+    <Content Include="Content\images\service\service3.jpg" />
+    <Content Include="Content\images\service\service4.jpg" />
+    <Content Include="Content\images\service\service5.jpg" />
+    <Content Include="Content\images\service\service6.jpg" />
     <Content Include="Content\images\slider\about4.jpg" />
     <Content Include="Content\images\slider\about6.jpg" />
     <Content Include="Content\images\accordion1.png" />
@@ -281,9 +289,12 @@
     <Content Include="Content\images\slider\e51.jpg" />
     <Content Include="Content\images\slider\mainslider.jpg" />
     <Content Include="Content\images\slider\objekat1.jpg" />
+    <Content Include="Content\images\slider\objekat2.jpg" />
     <Content Include="Content\images\slider\staze1.jpg" />
     <Content Include="Content\images\slider\test.jpg" />
     <Content Include="Content\images\slider\test1.jpg" />
+    <Content Include="Content\images\slider\vkobjekat.jpg" />
+    <Content Include="Content\images\slider\vkobjekat1.jpg" />
     <Content Include="Content\images\slider_one.jpg" />
     <Content Include="Content\images\staze\staza2.jpg" />
     <Content Include="Content\images\staze\staza3.jpg" />
@@ -320,6 +331,12 @@
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\FontAwesome.otf" />
+    <EmbeddedResource Include="Resources\Views\Services\ServicesStrings.ba.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ServicesStrings.ba.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\html5shiv.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -350,6 +367,48 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Views\About\AboutStrings.ba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AboutStrings.ba.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Views\About\AboutStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AboutStrings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Views\Home\HomeStrings.ba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HomeStrings.ba.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Views\Home\HomeStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HomeStrings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Views\Services\ServicesStrings.ba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ServicesStrings.ba.resx</DependentUpon>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </Compile>
+    <Compile Include="Resources\Views\Services\ServicesStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ServicesStrings.resx</DependentUpon>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </Compile>
+    <Compile Include="Resources\Views\Shared\SharedStrings.ba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SharedStrings.ba.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Views\Shared\SharedStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SharedStrings.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config">
@@ -365,6 +424,7 @@
     <Content Include="Views\About\Index.cshtml" />
     <Content Include="Views\Portfolio\Index.cshtml" />
     <Content Include="Views\Contact\Index.cshtml" />
+    <Content Include="Views\Shared\CultureChooserUserControl.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -375,6 +435,45 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Resources\Views\Contact\" />
+    <Folder Include="Resources\Views\Portfolio\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Views\About\AboutStrings.ba.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AboutStrings.ba.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\About\AboutStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AboutStrings.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Home\HomeStrings.ba.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>HomeStrings.ba.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Home\HomeStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>HomeStrings.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Services\ServicesStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ServicesStrings.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Shared\SharedStrings.ba.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SharedStrings.ba.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Shared\SharedStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SharedStrings.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
