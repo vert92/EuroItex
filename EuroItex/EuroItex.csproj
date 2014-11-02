@@ -101,6 +101,9 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\images\asortiman3.jpg" />
+    <Content Include="Content\images\asortiman1.jpg" />
+    <Content Include="Content\images\asortiman2.jpg" />
     <Content Include="Content\images\carpets\carpet5.jpg" />
     <Content Include="Content\images\carpets\carpet6.jpg" />
     <Content Include="Content\images\carpets\carpet7.jpg" />
@@ -109,6 +112,7 @@
     <Content Include="Content\images\lights\light1.jpg" />
     <Content Include="Content\images\lights\light2.jpg" />
     <Content Include="Content\images\partners\artcarpet.png" />
+    <Content Include="Content\images\service\delivery1.jpg" />
     <Content Include="Content\images\service\logoeur.png" />
     <Content Include="Content\images\service\service1.jpg" />
     <Content Include="Content\images\service\service2.jpg" />
@@ -331,6 +335,26 @@
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\FontAwesome.otf" />
+    <EmbeddedResource Include="Resources\Views\Contact\ContactStrings.ba.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ContactStrings.ba.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Contact\ContactStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ContactStrings.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Portfolio\PortfolioStrings.ba.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PortfolioStrings.ba.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Views\Portfolio\PortfolioStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PortfolioStrings.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </EmbeddedResource>
     <EmbeddedResource Include="Resources\Views\Services\ServicesStrings.ba.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ServicesStrings.ba.Designer.cs</LastGenOutput>
@@ -377,6 +401,17 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AboutStrings.resx</DependentUpon>
     </Compile>
+    <Compile Include="Resources\Views\Contact\ContactStrings.ba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContactStrings.ba.resx</DependentUpon>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </Compile>
+    <Compile Include="Resources\Views\Contact\ContactStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContactStrings.resx</DependentUpon>
+    </Compile>
     <Compile Include="Resources\Views\Home\HomeStrings.ba.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -386,6 +421,17 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>HomeStrings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Views\Portfolio\PortfolioStrings.ba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PortfolioStrings.ba.resx</DependentUpon>
+      <CustomToolNamespace>ViewRes</CustomToolNamespace>
+    </Compile>
+    <Compile Include="Resources\Views\Portfolio\PortfolioStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PortfolioStrings.resx</DependentUpon>
     </Compile>
     <Compile Include="Resources\Views\Services\ServicesStrings.ba.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -435,8 +481,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Resources\Views\Contact\" />
-    <Folder Include="Resources\Views\Portfolio\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\Views\About\AboutStrings.ba.resx">

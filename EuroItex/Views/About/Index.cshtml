@@ -16,16 +16,19 @@
 
         <!-- about us slider -->
         <div id="about-slider">
-            <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+            <div id="carousel-slider" class="carousel slide" data-ride="carousel" data-cycle-fx=carousel-slide
+                 data-cycle-timeout=500 >
                 <!-- Indicators -->
+
                 <ol class="carousel-indicators visible-xs">
                     <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-slider" data-slide-to="1"></li>
                     <li data-target="#carousel-slider" data-slide-to="2"></li>
                 </ol>
-                <div class="carousel-inner">
+                <div class="carousel-inner" data-cycle-fx=carousel
+                     data-cycle-timeout=500>
                     <div class="item active">
-                        <img src="~/Content/images/slider/objekat1.jpg"  class=" img-responsive" alt="">
+                        <img src="~/Content/images/slider/objekat1.jpg" class=" img-responsive" alt="">
                     </div>
                     <div class="item">
                         <img src="~/Content/images/slider/about1.jpg" class="img-responsive" alt="">

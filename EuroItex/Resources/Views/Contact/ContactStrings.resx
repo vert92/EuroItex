@@ -117,14 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="About" xml:space="preserve">
-    <value>O nama</value>
+  <data name="Company" xml:space="preserve">
+    <value>Company Name</value>
   </data>
-  <data name="AboutText" xml:space="preserve">
-    <value>Firma je osnovana 2.02.1996 godine u Velikoj Kladuši. Direktor i vlasnik kompanije je Šerif Melkić. Sjedište kompanije je u Velikoj Kladuši. Firma ima registrovanih pet podružnica (trgovine na malo), Velika Kladuša, Cazin, Bihać, Bosanska Krupa i Bužim. Osnovna djelatnost društva je trgovina na malo i veliko tepisima, tepisonima, laminatima, parketima i PVC-podovima. Firma pruža uslugu dostave kupljene robe, postavljanje podnih obloga, obrade tepisona i izradu gazišta. Trenutan broj zaposlenih je 21. Firma posjeduje i PJ za proizvodnju karniši od drveta. 
-</value>
+  <data name="ContactTitle" xml:space="preserve">
+    <value>How to reach us?</value>
   </data>
-  <data name="MostSelling" xml:space="preserve">
-    <value>Najprodavaniji proizvodi</value>
+  <data name="Email" xml:space="preserve">
+    <value>Email *</value>
+  </data>
+  <data name="MailText" xml:space="preserve">
+    <value>We would be happy to hear from you.</value>
+  </data>
+  <data name="MailTitle" xml:space="preserve">
+    <value>Drop Your Message</value>
+  </data>
+  <data name="Message" xml:space="preserve">
+    <value>Message *</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name *</value>
+  </data>
+  <data name="Office1" xml:space="preserve">
+    <value>Head Office</value>
+  </data>
+  <data name="Office2" xml:space="preserve">
+    <value>Zone Office 1</value>
+  </data>
+  <data name="Office3" xml:space="preserve">
+    <value>Zone Office 2</value>
+  </data>
+  <data name="Office4" xml:space="preserve">
+    <value>Zone Office 3</value>
+  </data>
+  <data name="Office5" xml:space="preserve">
+    <value>Zone Office 4</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="Subject" xml:space="preserve">
+    <value>Subject *</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Submit</value>
   </data>
 </root>

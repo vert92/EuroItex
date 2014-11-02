@@ -22,14 +22,14 @@ namespace ViewRes {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class AboutStrings {
+    public class PortfolioStrings {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal AboutStrings() {
+        internal PortfolioStrings() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace ViewRes {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("EuroItex.Resources.Views.About.AboutStrings", typeof(AboutStrings).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("EuroItex.Resources.Views.Portfolio.PortfolioStrings", typeof(PortfolioStrings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,29 +61,83 @@ namespace ViewRes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About Us.
+        ///   Looks up a localized string similar to All Products.
         /// </summary>
-        public static string About {
+        public static string AllProducts {
             get {
-                return ResourceManager.GetString("About", resourceCulture);
+                return ResourceManager.GetString("AllProducts", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company has been established 2.02.1996 in Velika Kladusa. The CEO of the company  is Serif Melkic. The head office is in Velika Kladusa and company has four more zone offices and they are located in Bihac, Cazin, Buzim and Bosanska Krupa. The basic activity is wholesale and retail of rugs,carpets,runners and PVC floor coverings. We provide services of delivery, ridging, cutting, installation of floor coverings, production and making carpet stair treads. The current number of employees is 21. The company [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Our Assortment.
         /// </summary>
-        public static string AboutText {
+        public static string Assortment {
             get {
-                return ResourceManager.GetString("AboutText", resourceCulture);
+                return ResourceManager.GetString("Assortment", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Most selling products..
+        ///   Looks up a localized string similar to Carpets.
         /// </summary>
-        public static string MostSelling {
+        public static string Carpets {
             get {
-                return ResourceManager.GetString("MostSelling", resourceCulture);
+                return ResourceManager.GetString("Carpets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lights.
+        /// </summary>
+        public static string Lights {
+            get {
+                return ResourceManager.GetString("Lights", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Portfolio.
+        /// </summary>
+        public static string PortfolioTitle {
+            get {
+                return ResourceManager.GetString("PortfolioTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PVC.
+        /// </summary>
+        public static string PVC {
+            get {
+                return ResourceManager.GetString("PVC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rugs.
+        /// </summary>
+        public static string Rugs {
+            get {
+                return ResourceManager.GetString("Rugs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Runners.
+        /// </summary>
+        public static string Runners {
+            get {
+                return ResourceManager.GetString("Runners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Here is the galery of our various types of goods that you can find in our stores..
+        /// </summary>
+        public static string TitleText {
+            get {
+                return ResourceManager.GetString("TitleText", resourceCulture);
             }
         }
     }

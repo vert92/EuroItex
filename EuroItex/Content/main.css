@@ -485,7 +485,7 @@ input.search-form:hover {
   height: 24px;
   border-radius: 100%;
   background: rgba(0, 0, 0, 0);
-  border: 1px solid #FFF;
+  border: 1px solid rgb(3,151,241);
   left: -3px;
   top: -3px;
 }
@@ -495,7 +495,7 @@ input.search-form:hover {
   height: 20px;
   background-color: rgb(3,151,241);
    margin: 0 15px 0 0;
-   border: 1px solid #c52d2f;
+   border: 1px solid rgb(3,151,241);
    position: relative;
 }
 

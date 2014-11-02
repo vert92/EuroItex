@@ -117,14 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="About" xml:space="preserve">
-    <value>O nama</value>
+  <data name="Assortment" xml:space="preserve">
+    <value>Naš Asortiman</value>
   </data>
-  <data name="AboutText" xml:space="preserve">
-    <value>Firma je osnovana 2.02.1996 godine u Velikoj Kladuši. Direktor i vlasnik kompanije je Šerif Melkić. Sjedište kompanije je u Velikoj Kladuši. Firma ima registrovanih pet podružnica (trgovine na malo), Velika Kladuša, Cazin, Bihać, Bosanska Krupa i Bužim. Osnovna djelatnost društva je trgovina na malo i veliko tepisima, tepisonima, laminatima, parketima i PVC-podovima. Firma pruža uslugu dostave kupljene robe, postavljanje podnih obloga, obrade tepisona i izradu gazišta. Trenutan broj zaposlenih je 21. Firma posjeduje i PJ za proizvodnju karniši od drveta. 
-</value>
+  <data name="Carpets" xml:space="preserve">
+    <value>Tepisoni</value>
   </data>
-  <data name="MostSelling" xml:space="preserve">
-    <value>Najprodavaniji proizvodi</value>
+  <data name="Lights" xml:space="preserve">
+    <value>Svijetla</value>
+  </data>
+  <data name="PortfolioTitle" xml:space="preserve">
+    <value>Portfolio</value>
+  </data>
+  <data name="PVC" xml:space="preserve">
+    <value>PVC Podne Obloge</value>
+  </data>
+  <data name="Rugs" xml:space="preserve">
+    <value>Tepisi</value>
+  </data>
+  <data name="Runners" xml:space="preserve">
+    <value>Staze</value>
+  </data>
+  <data name="TitleText" xml:space="preserve">
+    <value>Ovdje je galerija naših proizvoda koje možete naći u našim trgovinama.</value>
+  </data>
+  <data name="AllProducts" xml:space="preserve">
+    <value>Svi proizvodi</value>
   </data>
 </root>

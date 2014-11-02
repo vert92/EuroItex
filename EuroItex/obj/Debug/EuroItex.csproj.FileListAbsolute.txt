@@ -61,3 +61,7 @@ C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.csprojResolveAssemblyReference.cache
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources.Views.Services.ServicesStrings.resources
 C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources.Views.Services.ServicesStrings.ba.resources
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources.Views.Portfolio.PortfolioStrings.resources
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources.Views.Portfolio.PortfolioStrings.ba.resources
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources.Views.Contact.ContactStrings.resources
+C:\Users\Asus\Desktop\Euroitexrep\EuroItex\EuroItex\obj\Debug\EuroItex.Resources.Views.Contact.ContactStrings.ba.resources
