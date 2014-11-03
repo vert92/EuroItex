@@ -121,13 +121,13 @@
     <value>Rezanje</value>
   </data>
   <data name="CuttingText" xml:space="preserve">
-    <value>Vršimo rezanje kupljenje robe na željene dimenzije.</value>
+    <value>Vršimo rezanje kupljene robe na željene dimenzije.</value>
   </data>
   <data name="Delivery" xml:space="preserve">
     <value>Dostava</value>
   </data>
   <data name="DeliveryText" xml:space="preserve">
-    <value>Dostavljamo robu putem našeg brzog i pouzdanog sistem dostave.</value>
+    <value>Dostavljamo robu putem našeg brzog i pouzdanog sistema dostave.</value>
   </data>
   <data name="ImagesMoreInfo" xml:space="preserve">
     <value>Pronađite više u našim trgovinama</value>
@@ -160,7 +160,7 @@
     <value>Naši partneri</value>
   </data>
   <data name="PartnersText" xml:space="preserve">
-    <value>Ovo su naši ponosni patneri sa kojima surađujemo</value>
+    <value>Ovo su naši ponosni partneri sa kojima surađujemo</value>
   </data>
   <data name="PopularProduct" xml:space="preserve">
     <value>Najpopularniji proizvodi</value>

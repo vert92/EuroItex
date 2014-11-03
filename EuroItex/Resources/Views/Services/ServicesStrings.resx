@@ -147,11 +147,14 @@
   <data name="ImagesMoreInfo5" xml:space="preserve">
     <value>We do cutting on desired dimensions.</value>
   </data>
+  <data name="ImagesMoreInfo6" xml:space="preserve">
+    <value>Production</value>
+  </data>
   <data name="Installation" xml:space="preserve">
     <value>Installation of floor coverings</value>
   </data>
   <data name="InstallationText" xml:space="preserve">
-    <value>Wheter it is a carpet or PVC we do a quick and clean installation.</value>
+    <value>Wheter it is a carpet or PVC we do a quick and high quality installation.</value>
   </data>
   <data name="OurServices" xml:space="preserve">
     <value>Our services</value>

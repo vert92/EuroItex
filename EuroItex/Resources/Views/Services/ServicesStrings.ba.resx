@@ -121,13 +121,13 @@
     <value>Rezanje</value>
   </data>
   <data name="CuttingText1" xml:space="preserve">
-    <value>Vršimo rezanje kupljenje robe na željene dimenzije.</value>
+    <value>Vršimo rezanje kupljene robe na željene dimenzije.</value>
   </data>
   <data name="Delivery" xml:space="preserve">
     <value>Dostava</value>
   </data>
   <data name="DeliveryText" xml:space="preserve">
-    <value>Dostavljamo robu putem našeg brzog i pouzdanog sistem dostave.</value>
+    <value>Dostavljamo robu putem našeg brzog i pouzdanog sistema dostave.</value>
   </data>
   <data name="ImagesMoreInfo" xml:space="preserve">
     <value>Pravimo i ugrađujemo gazišta.</value>
@@ -147,11 +147,14 @@
   <data name="ImagesMoreInfo5" xml:space="preserve">
     <value>Vršimo rezanje  na željenje dimenzije.</value>
   </data>
+  <data name="ImagesMoreInfo6" xml:space="preserve">
+    <value>Proizvodnja</value>
+  </data>
   <data name="Installation" xml:space="preserve">
     <value>Ugradnja podnih obloga</value>
   </data>
   <data name="InstallationText" xml:space="preserve">
-    <value>Bilo da je tepih ili PVC vršimo brzu i čistu ugradnju.</value>
+    <value>Bilo da je tepih ili PVC vršimo brzu i kvalitetnu ugradnju.</value>
   </data>
   <data name="OurServices" xml:space="preserve">
     <value>Naši servisi</value>

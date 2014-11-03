@@ -109,11 +109,14 @@
     <Content Include="Content\images\carpets\carpet7.jpg" />
     <Content Include="Content\images\ico\ba.png" />
     <Content Include="Content\images\ico\gb.png" />
+    <Content Include="Content\images\karta.jpg" />
+    <Content Include="Content\images\karta2.jpg" />
     <Content Include="Content\images\lights\light1.jpg" />
     <Content Include="Content\images\lights\light2.jpg" />
     <Content Include="Content\images\partners\artcarpet.png" />
     <Content Include="Content\images\service\delivery1.jpg" />
     <Content Include="Content\images\service\logoeur.png" />
+    <Content Include="Content\images\service\scmxl.jpg" />
     <Content Include="Content\images\service\service1.jpg" />
     <Content Include="Content\images\service\service2.jpg" />
     <Content Include="Content\images\service\service3.jpg" />
@@ -151,9 +154,6 @@
     <Content Include="Content\images\carpets\carpet2.jpg" />
     <Content Include="Content\images\carpets\carpet3.jpg" />
     <Content Include="Content\images\carpets\carpet4.jpg" />
-    <Content Include="Content\images\client1.png" />
-    <Content Include="Content\images\client2.png" />
-    <Content Include="Content\images\client3.png" />
     <Content Include="Content\images\contact.png" />
     <Content Include="Content\images\gallery\gallery1.jpg" />
     <Content Include="Content\images\gallery\gallery2.jpg" />
@@ -246,8 +246,6 @@
     <Content Include="Content\images\prettyPhoto\light_square\default_thumbnail.gif" />
     <Content Include="Content\images\prettyPhoto\light_square\loader.gif" />
     <Content Include="Content\images\prettyPhoto\light_square\sprite.png" />
-    <Content Include="Content\images\ribon_one.png" />
-    <Content Include="Content\images\ribon_two.png" />
     <Content Include="Content\images\rugs\rug1.jpg" />
     <Content Include="Content\images\rugs\rug2.jpg" />
     <Content Include="Content\images\rugs\rug3.jpg" />
@@ -260,7 +258,6 @@
     <Content Include="Content\images\rugs\slila2.jpg" />
     <Content Include="Content\images\rugs\sred.jpg" />
     <Content Include="Content\images\rugs\sred2.jpg" />
-    <Content Include="Content\images\search_icon.png" />
     <Content Include="Content\images\services\bg_services.jpg" />
     <Content Include="Content\images\services\bg_services.png" />
     <Content Include="Content\images\services\carpet-cleaning-in1.jpg" />
@@ -271,11 +268,7 @@
     <Content Include="Content\images\services\settings.png" />
     <Content Include="Content\images\services\sewing.png" />
     <Content Include="Content\images\services\slider-bg.png" />
-    <Content Include="Content\images\service\client1.png" />
-    <Content Include="Content\images\service\client2.png" />
-    <Content Include="Content\images\service\client3.png" />
     <Content Include="Content\images\service\image_bg.png" />
-    <Content Include="Content\images\service\logo.png" />
     <Content Include="Content\images\slider\about1.jpg" />
     <Content Include="Content\images\slider\about2.jpg" />
     <Content Include="Content\images\slider\about3.jpg" />
@@ -299,7 +292,6 @@
     <Content Include="Content\images\slider\test1.jpg" />
     <Content Include="Content\images\slider\vkobjekat.jpg" />
     <Content Include="Content\images\slider\vkobjekat1.jpg" />
-    <Content Include="Content\images\slider_one.jpg" />
     <Content Include="Content\images\staze\staza2.jpg" />
     <Content Include="Content\images\staze\staza3.jpg" />
     <Content Include="Content\images\staze\staza4.jpg" />
@@ -309,11 +301,7 @@
     <Content Include="Content\images\staze\staza8.jpg" />
     <Content Include="Content\images\staze\staza9.jpg" />
     <Content Include="Content\images\sviprodukti.jpg" />
-    <Content Include="Content\images\tab1.png" />
-    <Content Include="Content\images\tab2.png" />
-    <Content Include="Content\images\team-member.jpg" />
     <Content Include="Content\images\tepisi.jpg" />
-    <Content Include="Content\images\testimonials1.png" />
     <Content Include="Content\images\vinil\vinil2.jpg" />
     <Content Include="Content\images\vinil\vinil.jpg" />
     <Content Include="Content\images\vinil\vinil3.jpg" />

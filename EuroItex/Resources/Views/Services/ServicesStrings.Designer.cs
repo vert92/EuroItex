@@ -151,6 +151,15 @@ namespace ViewRes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Production.
+        /// </summary>
+        public static string ImagesMoreInfo6 {
+            get {
+                return ResourceManager.GetString("ImagesMoreInfo6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Installation of floor coverings.
         /// </summary>
         public static string Installation {
@@ -160,7 +169,7 @@ namespace ViewRes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wheter it is a carpet or PVC we do a quick and clean installation..
+        ///   Looks up a localized string similar to Wheter it is a carpet or PVC we do a quick and high quality installation..
         /// </summary>
         public static string InstallationText {
             get {

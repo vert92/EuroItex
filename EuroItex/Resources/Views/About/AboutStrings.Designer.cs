@@ -70,7 +70,7 @@ namespace ViewRes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company has been established 2.02.1996 in Velika Kladusa. The CEO of the company  is Serif Melkic. The head office is in Velika Kladusa and company has four more zone offices and they are located in Bihac, Cazin, Buzim and Bosanska Krupa. The basic activity is wholesale and retail of rugs,carpets,runners and PVC floor coverings. We provide services of delivery, ridging, cutting, installation of floor coverings, production and making carpet stair treads. The current number of employees is 21. The company [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to The company has been established 02.02.1996 in Velika Kladusa. The CEO of the company  is Serif Melkic. The head office is in Velika Kladusa and company has four more zone offices and they are located in Bihac, Cazin, Buzim and Bosanska Krupa. The basic activity is wholesale and retail of rugs,carpets,runners and PVC floor coverings. We provide services of delivery, ridging, cutting, installation of floor coverings, production and making carpet stair treads. The current number of employees is 21. The compan [rest of string was truncated]&quot;;.
         /// </summary>
         public static string AboutText {
             get {
