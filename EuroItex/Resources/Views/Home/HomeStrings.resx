@@ -121,7 +121,7 @@
     <value>Cutting</value>
   </data>
   <data name="CuttingText" xml:space="preserve">
-    <value>We doo cutting of bought goods to dimnesions specified by the customer.</value>
+    <value>We do cutting of bought goods to dimensions specified by the customer.</value>
   </data>
   <data name="Delivery" xml:space="preserve">
     <value>Delivery</value>
@@ -139,16 +139,16 @@
     <value>Installation of floor coverings</value>
   </data>
   <data name="InstallationText" xml:space="preserve">
-    <value>Wheter it is a carpet or PVC we do a quick and clean installation.</value>
+    <value>Whether it is a carpet or PVC we do a quick and clean installation.</value>
   </data>
   <data name="LikeUs" xml:space="preserve">
     <value>Why People like us?</value>
   </data>
   <data name="LikeUsText1" xml:space="preserve">
-    <value>The emplyoees are friendly and welcoming. They offer a wide range of high quality goods and their service is fast and relaible.</value>
+    <value>The employees are friendly and welcoming. They offer a wide range of high quality goods and their service is fast and reliable.</value>
   </data>
   <data name="LikeUsTitle1" xml:space="preserve">
-    <value>Their service is the best and goods are really good.</value>
+    <value>Their service is the best and their products are really good.</value>
   </data>
   <data name="LikeUsTitle2" xml:space="preserve">
     <value>I am satisfied with their products.</value>
@@ -166,19 +166,19 @@
     <value>Most popular products</value>
   </data>
   <data name="PopularProductText" xml:space="preserve">
-    <value>The categories of producsts that are the most popular among our customers</value>
+    <value>The categories of products that are the most popular among our customers</value>
   </data>
   <data name="Production" xml:space="preserve">
     <value>Production</value>
   </data>
   <data name="ProductionText" xml:space="preserve">
-    <value>We manufactaure our own line of hiqh qualtiy curtain rods.</value>
+    <value>We manufacture our own line of high quality curtain rods.</value>
   </data>
   <data name="Question" xml:space="preserve">
     <value>Have a question or need more information?</value>
   </data>
   <data name="QuestionText" xml:space="preserve">
-    <value>Give us a call on +387 37 771 356, we are availabe every day from 08:00h to 16:00h (GMT+1) except Sundays.</value>
+    <value>Give us a call on +387 37 771 356, we are available every day from 08:00h to 16:00h (GMT+1) except Sundays.</value>
   </data>
   <data name="Ridging" xml:space="preserve">
     <value>Ridging</value>

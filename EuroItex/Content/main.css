@@ -387,7 +387,8 @@ input.search-form:hover {
 }
 
 #main-slider .carousel .slide-margin{
-  margin-top: 140px;
+  margin-top: 170px;
+
 }
 
 #main-slider .carousel h2 {
@@ -506,7 +507,7 @@ input.search-form:hover {
   height: 24px;
   border-radius: 100%;
   background: rgb(3,151,241);
-  border: 1px solid #c52d2f;
+  border: 1px solid rgb(3,151,241);
   left: -3px;
   top: -3px;
 }
