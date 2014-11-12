@@ -1,0 +1,138 @@
+﻿@{
+    ViewBag.Title = "Contact Us";
+}
+
+<section id="contact-info">
+    <div class="center">
+        <h2>@ViewRes.ContactStrings.ContactTitle</h2>
+        <p class="lead"></p>
+    </div>
+    <div class="gmap-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 text-center">
+                    <div class="gmap">
+                        <iframe frameborder="0" scrolling="yes" marginheight="10" marginwidth="0" src="~/Content/images/karta2.jpg"></iframe>
+                    </div>
+                    
+                </div>
+                <div class="col-sm-7 map-content">
+                    <ul class="row">
+                        <li class="col-sm-6">
+                            <address>
+                                <h5>@ViewRes.ContactStrings.Office1</h5>
+                                <p>
+                                    d.o.o. „Euro-itex“ Velika Kladuša <br>
+                                    Zuhdije Žalića bb
+                                    77230 Velika Kladuša
+                                </p>
+                                <p>
+                                    Tel/fax:+387 37 771 356 <br>
+                                    Email Address: euroitex@bih.net.ba
+                                </p>
+                            </address>
+                            <address>
+                                <h5>@ViewRes.ContactStrings.Office2</h5>
+                                <p>
+                                    Cazin  <br>
+                                    Ćoralići bb 
+                                    77220 Cazin
+                                </p>
+                                <p>
+                                    Tel/fax: :+387 37 536 591<br>
+                                    Email Address: euroitex@bih.net.ba
+                                </p>
+                            </address>
+                        </li>
+
+                        <li class="col-sm-6">
+                            <address>
+                                <h5>@ViewRes.ContactStrings.Office3</h5>
+                                <p>
+                                    Bihac  <br>
+                                    Pritoka bb
+                                    77000 Bihac
+                                </p>
+                                <p>
+                                    Tel/fax:+387 37 227 668 <br>
+                                    Email Address: euroitex@bih.net.ba
+                                </p>
+                            </address>
+                            <address>
+                                <h5>@ViewRes.ContactStrings.Office4</h5>
+                                <p>
+                                   Bosanska Krupa  <br>
+                                   Generala Mirsada Sedića bb
+                                   77240 Bosanska Krupa
+
+                                </p>
+                                <p>
+                                    Tel/fax: 00387 37 472 315 <br>
+                                    Email Address: euroitex@bih.net.ba
+                                </p>
+                            </address>
+                            <address>
+                                <h5>@ViewRes.ContactStrings.Office5</h5>
+                                <p>
+                                   Buzim  <br>
+                                   Izeta Nanića bb
+                                   77245 Bužim
+
+                                </p>
+                                <p>
+                                    Tel/fax:+387 37 410 320 <br>
+                                    Email Address: euroitex@bih.net.ba
+                                </p>
+                            </address>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>  <!--/gmap_area -->
+<section id="contact-page">
+    <div class="container">
+        <div class="center">
+            <h2>@ViewRes.ContactStrings.MailTitle</h2>
+            <p class="lead">@ViewRes.ContactStrings.MailText</p>
+        </div>
+        <div class="row contact-wrap">
+            <div class="status alert alert-success" style="display: none"></div>
+          @using(Html.BeginForm("Send","Contact"))
+          { 
+                <div class="col-sm-5 col-sm-offset-1">
+                    <div class="form-group">
+                        <label>@ViewRes.ContactStrings.Name</label>
+                        <input type="text" name="name" class="form-control" required="required">
+                    </div>
+                    <div class="form-group">
+                        <label>@ViewRes.ContactStrings.Email</label>
+                        <input type="email" name="email" class="form-control" required="required">
+                    </div>
+                    <div class="form-group">
+                        <label>@ViewRes.ContactStrings.Phone</label>
+                        <input type="number" name="phone" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>@ViewRes.ContactStrings.Company</label>
+                        <input type="text" name="company" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-5">
+                    <div class="form-group">
+                        <label>@ViewRes.ContactStrings.Subject</label>
+                        <input type="text" name="subject" class="form-control" required="required">
+                    </div>
+                    <div class="form-group">
+                        <label>@ViewRes.ContactStrings.Message</label>
+                        <textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">@ViewRes.ContactStrings.Submit</button>
+                    </div>
+                </div>
+           }
+        </div><!--/.row-->
+    </div><!--/.container-->
+</section><!--/#contact-page-->

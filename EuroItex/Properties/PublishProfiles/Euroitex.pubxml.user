@@ -7,80 +7,80 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr6xeyk3rnUCAX6lXWf0UcwAAAAACAAAAAAAQZgAAAAEAACAAAADBa3FHQuLgGj5/Ohn6Efj4FPpVfiqdGeJbuiJDSUWz0wAAAAAOgAAAAAIAACAAAAAMMYBSt6IRYfP7lG88078hGrOfNcYUKQuNkcOx1AtwJBAAAAAtCm3cILR01UwjB+evV36RQAAAACBfN4CEpJUJx/p+SopAENuMrnt3dXshfKZieb/djy8LQQtWYH/HZ248Ys3mssoO1aPw8Tqq0OSwVAnHeTm1QgQ=</EncryptedPassword>
-    <_PublishTargetUrl>ftp://www.euroitex.com/httpdocs</_PublishTargetUrl>
+    <_PublishTargetUrl>ftp://ftp.euroitex.com/httpdocs</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>11/04/2014 18:58:27</publishTime>
+      <publishTime>11/12/2014 11:26:31</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>11/04/2014 18:58:27</publishTime>
+      <publishTime>11/12/2014 11:26:31</publishTime>
     </File>
     <File Include="bin/ba/EuroItex.resources.dll">
-      <publishTime>11/04/2014 18:58:15</publishTime>
+      <publishTime>11/12/2014 11:26:11</publishTime>
     </File>
     <File Include="bin/EuroItex.dll">
-      <publishTime>11/04/2014 18:58:15</publishTime>
+      <publishTime>11/12/2014 11:26:10</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/Simplify.Mail.dll">
-      <publishTime>10/30/2014 21:45:02</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Abstractions.dll">
       <publishTime>09/26/2012 03:16:08</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Routing.dll">
       <publishTime>09/26/2012 03:16:08</publishTime>
     </File>
     <File Include="bin/System.Web.Webpages.Deployment.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Webpages.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/System.Web.Webpages.Razor.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>10/27/2014 14:12:03</publishTime>
+      <publishTime>11/11/2014 17:49:01</publishTime>
     </File>
     <File Include="Content/animate.min.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/font-awesome.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/font-awesome.min.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/404.xcf">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/accordion1.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/ads/ad1.png">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -95,13 +95,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/27/2014 14:12:02</publishTime>
     </File>
     <File Include="Content/images/asortiman1.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 10:56:58</publishTime>
     </File>
     <File Include="Content/images/asortiman2.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 10:57:20</publishTime>
     </File>
     <File Include="Content/images/asortiman3.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 10:57:38</publishTime>
     </File>
     <File Include="Content/images/blog/avatar.jpg">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -164,28 +164,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/27/2014 14:12:02</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet1.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:49:52</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet2.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:50:13</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet3.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:50:34</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet4.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:51:31</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet5.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:51:54</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet6.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:52:13</publishTime>
     </File>
     <File Include="Content/images/carpets/carpet7.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:52:30</publishTime>
     </File>
     <File Include="Content/images/contact.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/gallery/gallery1.jpg">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -218,31 +218,31 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/27/2014 14:12:02</publishTime>
     </File>
     <File Include="Content/images/ico/ba.png">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/ico/favicon.ico">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/ico/gb.png">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/image_bg.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/karta.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/02/2014 21:59:32</publishTime>
     </File>
     <File Include="Content/images/karta2.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 10:58:01</publishTime>
     </File>
     <File Include="Content/images/lights/light1.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/lights/light2.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/logo.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/man1.jpg">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -257,43 +257,43 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/27/2014 14:12:02</publishTime>
     </File>
     <File Include="Content/images/map.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/artcarpet.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/basaran.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/beaulieu.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/florahali.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/partner1.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/partner2.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/partner3.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/partner4.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/partner5.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/partner_bg.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/Tarkett_Logo.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/partners/weavers.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/portfolio/full/item1.png">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -368,136 +368,136 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/27/2014 14:12:02</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_rounded/btnNext.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_rounded/btnPrevious.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_rounded/contentPattern.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_rounded/default_thumbnail.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_rounded/loader.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_rounded/sprite.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_square/btnNext.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_square/btnPrevious.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_square/contentPattern.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_square/default_thumbnail.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_square/loader.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/dark_square/sprite.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/default_thumb.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/loader.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/sprite.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/sprite_next.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/sprite_prev.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/sprite_x.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/default/sprite_y.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/btnNext.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/btnPrevious.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/contentPatternBottom.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/contentPatternLeft.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/contentPatternRight.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/contentPatternTop.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/default_thumbnail.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/loader.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/facebook/sprite.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_rounded/btnNext.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_rounded/btnPrevious.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_rounded/default_thumbnail.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_rounded/loader.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_rounded/sprite.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_square/btnNext.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_square/btnPrevious.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_square/default_thumbnail.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_square/loader.gif">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/prettyPhoto/light_square/sprite.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="Content/images/rugs/rug1.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:45:37</publishTime>
     </File>
     <File Include="Content/images/rugs/rug2.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:46:33</publishTime>
     </File>
     <File Include="Content/images/rugs/rug3.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:47:15</publishTime>
     </File>
     <File Include="Content/images/rugs/rug4.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:47:37</publishTime>
     </File>
     <File Include="Content/images/rugs/rug5.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:48:13</publishTime>
     </File>
     <File Include="Content/images/rugs/rug6.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:48:37</publishTime>
     </File>
     <File Include="Content/images/rugs/sgreen.jpg">
       <publishTime>10/30/2014 21:45:01</publishTime>
@@ -518,34 +518,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 21:45:01</publishTime>
     </File>
     <File Include="Content/images/service/delivery1.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 11:01:02</publishTime>
     </File>
     <File Include="Content/images/service/image_bg.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/service/logoeur.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/service/scmxl.jpg">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 11:01:22</publishTime>
     </File>
     <File Include="Content/images/service/service1.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:01:48</publishTime>
     </File>
     <File Include="Content/images/service/service2.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:02:08</publishTime>
     </File>
     <File Include="Content/images/service/service3.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:02:30</publishTime>
     </File>
     <File Include="Content/images/service/service4.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:02:48</publishTime>
     </File>
     <File Include="Content/images/service/service5.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:03:07</publishTime>
     </File>
     <File Include="Content/images/service/service6.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:03:24</publishTime>
     </File>
     <File Include="Content/images/services/bg_services.jpg">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -554,46 +554,46 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/27/2014 14:12:02</publishTime>
     </File>
     <File Include="Content/images/services/carpet-cleaning-in1.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/carpet-roll.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/cutting.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/delivery.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/paper.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/settings.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/sewing.png">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/services/slider-bg.png">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/slider/about1.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:08:18</publishTime>
     </File>
     <File Include="Content/images/slider/about2.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:08:44</publishTime>
     </File>
     <File Include="Content/images/slider/about3.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:09:02</publishTime>
     </File>
     <File Include="Content/images/slider/about4.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:07:15</publishTime>
     </File>
     <File Include="Content/images/slider/about6.jpg">
       <publishTime>10/30/2014 21:45:01</publishTime>
     </File>
     <File Include="Content/images/slider/about7.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:09:41</publishTime>
     </File>
     <File Include="Content/images/slider/bg1.jpg">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -608,7 +608,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 21:45:01</publishTime>
     </File>
     <File Include="Content/images/slider/DSC_0061.JPG">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 11:10:39</publishTime>
     </File>
     <File Include="Content/images/slider/DSC_0074.JPG">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -629,118 +629,118 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 21:45:01</publishTime>
     </File>
     <File Include="Content/images/slider/mainslider.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:10:55</publishTime>
     </File>
     <File Include="Content/images/slider/objekat1.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:06:19</publishTime>
     </File>
     <File Include="Content/images/slider/objekat2.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:06:35</publishTime>
     </File>
     <File Include="Content/images/slider/staze1.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:08:00</publishTime>
     </File>
     <File Include="Content/images/slider/test.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/slider/test1.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/images/slider/vkobjekat.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:04:35</publishTime>
     </File>
     <File Include="Content/images/slider/vkobjekat1.jpg">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/12/2014 11:04:14</publishTime>
     </File>
     <File Include="Content/images/staze/staza2.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:40:20</publishTime>
     </File>
     <File Include="Content/images/staze/staza3.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:40:55</publishTime>
     </File>
     <File Include="Content/images/staze/staza4.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:41:59</publishTime>
     </File>
     <File Include="Content/images/staze/staza5.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:42:48</publishTime>
     </File>
     <File Include="Content/images/staze/staza6.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:43:36</publishTime>
     </File>
     <File Include="Content/images/staze/staza7.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:44:17</publishTime>
     </File>
     <File Include="Content/images/staze/staza8.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:44:39</publishTime>
     </File>
     <File Include="Content/images/staze/staza9.jpg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/12/2014 10:44:58</publishTime>
     </File>
     <File Include="Content/images/sviprodukti.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:59:29</publishTime>
     </File>
     <File Include="Content/images/tepisi.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 11:00:12</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:53:17</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil2.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:53:38</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil3.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:54:03</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil4.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:54:20</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil5.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:55:00</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil6.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:55:39</publishTime>
     </File>
     <File Include="Content/images/vinil/vinil7.jpg">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/12/2014 10:56:14</publishTime>
     </File>
     <File Include="Content/main.css">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/prettyPhoto.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/responsive.css">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>10/27/2014 14:24:45</publishTime>
+      <publishTime>11/11/2014 17:48:51</publishTime>
     </File>
     <File Include="fonts/fontawesome-webfont.eot">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/fontawesome-webfont.svg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/fontawesome-webfont.ttf">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/fontawesome-webfont.woff">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/FontAwesome.otf">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Global.asax">
       <publishTime>10/27/2014 14:12:02</publishTime>
@@ -749,79 +749,79 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 21:45:01</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>11/04/2014 18:58:26</publishTime>
+      <publishTime>11/12/2014 11:26:27</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/html5shiv.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/jquery.isotope.min.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/jquery.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/jquery.prettyPhoto.js">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/main.js">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Scripts/wow.min.js">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/About/Index.cshtml">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/Contact/Index.cshtml">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>10/31/2014 15:37:09</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/Portfolio/Index.cshtml">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/12/2014 11:16:00</publishTime>
     </File>
     <File Include="Views/Services/Index.cshtml">
       <publishTime>11/03/2014 22:52:05</publishTime>
     </File>
     <File Include="Views/Shared/404.html">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/Shared/CultureChooserUserControl.cshtml">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>11/03/2014 22:52:05</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/web.config">
-      <publishTime>10/30/2014 21:45:01</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>10/27/2014 14:12:02</publishTime>
+      <publishTime>11/11/2014 17:48:52</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/04/2014 18:58:25</publishTime>
+      <publishTime>11/12/2014 11:12:11</publishTime>
     </File>
   </ItemGroup>
 </Project>

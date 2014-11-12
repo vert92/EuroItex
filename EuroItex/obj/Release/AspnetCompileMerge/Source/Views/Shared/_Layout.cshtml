@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -@ViewRes.SharedStrings.Title</title>
+    @Styles.Render("~/Content/css")
+    <!--[if lt IE 9]>
+     <script src="js/html5shiv.js"></script>
+     <script src="js/respond.min.js"></script>
+     <![endif]-->
+    
+
+    @*<script src="~/Scripts/modernizr-2.6.2.js"></script>*@
+
+</head>
+<body class="homepage">
+    <header id="header">
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-4">
+                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +387 37 771 356 </p></div>
+                    </div>
+                    <div class="col-sm-6 col-xs-8">
+                        <div class="social">
+                            <div class="localization">
+                                @Html.Partial("CultureChooserUserControl")
+
+                            </div>
+                            <ul class="social-share">
+                                <li><a href="https://www.facebook.com/pages/Euro-Itex-doo/751890781558270?ref=hl" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                @*<li><a href="#"><i class="fa fa-twitter"></i></a></li>*@
+                            
+                            </ul>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.container-->
+        </div><!--/.top-bar-->
+        <nav class="navbar navbar-inverse" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand"  href="/Home"><img src="~/Content/images/logo.png" alt="logo"></a>
+                </div>
+
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Home" ? "active" : "")">@Html.ActionLink(ViewRes.SharedStrings.Home, "Index", "Home")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "About" ? "active" : "")">@Html.ActionLink(ViewRes.SharedStrings.About, "Index", "About")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Services" ? "active" : "")">@Html.ActionLink(ViewRes.SharedStrings.Services, "Index", "Services")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Portfolio" ? "active" : "")">@Html.ActionLink(ViewRes.SharedStrings.Portfolio, "Index", "Portfolio")</li>
+                        <li class="@((string)ViewContext.RouteData.Values["Controller"] == "Contact" ? "active" : "")">@Html.ActionLink(ViewRes.SharedStrings.Contact, "Index", "Contact")</li>
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+
+    </header><!--/header-->
+
+   
+        @RenderBody()
+        
+
+    <section id="bottom">
+        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <div class="widget">
+                        <h3>@ViewRes.SharedStrings.Company</h3>
+                       
+
+                        <table>
+                            <tr>
+                                <td> @Html.ActionLink(ViewRes.SharedStrings.Home, "Index", "Home")</td>
+                                <td>@Html.ActionLink(ViewRes.SharedStrings.About, "Index", "About")</td>
+                                <td>@Html.ActionLink(ViewRes.SharedStrings.Services, "Index", "Services")</td>
+                                <td>@Html.ActionLink(ViewRes.SharedStrings.Portfolio, "Index", "Portfolio")</td>
+                                <td>@Html.ActionLink(ViewRes.SharedStrings.Contact, "Index", "Contact")</td>
+
+                            </tr>
+                        </table>
+                    </div>
+                </div><!--/.col-md-3-->
+                <div class="col-md-6 col-sm-6 rightwidget">
+                    <div class="widget">
+                        <h3>@ViewRes.SharedStrings.Partners</h3>
+                        <table>
+                            <tr>
+                                <td> <a href="http://www.carpetyourlife.com/" target="_blank">Associated Weavers </a>    </td>
+                                <td><a href="http://www.beaulieureal.be/" target="_blank">Beulieu IG</a></td>
+                                <td><a href="http://www.florahali.com.tr/" target="_blank">Flora </a></td>
+                                <td><a href="http://www.tarkett.com/" target="_blank">Tarkket</a></td>
+                                <td><a href="http://artcarpet.com/en" target="_blank">Art Company</a></td>
+                                <td><a href="http://www.basaranhali.com.tr/#anasayfa" target="_blank">Basaran</a></td>
+
+                            </tr>
+                        </table>
+
+                    </div>
+                </div><!--/.col-md-3-->
+                @* <div class="col-md-3 col-sm-6">
+                        <div class="widget">
+                            <h3>Developers</h3>
+                            <ul>
+                                <li><a href="#">Web Development</a></li>
+                                <li><a href="#">SEO Marketing</a></li>
+                                <li><a href="#">Theme</a></li>
+                                <li><a href="#">Development</a></li>
+                                <li><a href="#">Email Marketing</a></li>
+                                <li><a href="#">Plugin Development</a></li>
+                                <li><a href="#">Article Writing</a></li>
+                            </ul>
+                        </div>
+                    </div><!--/.col-md-3-->
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget">
+                            <h3>Our Partners</h3>
+                            <ul>
+                                <li><a href="#">Adipisicing Elit</a></li>
+                                <li><a href="#">Eiusmod</a></li>
+                                <li><a href="#">Tempor</a></li>
+                                <li><a href="#">Veniam</a></li>
+                                <li><a href="#">Exercitation</a></li>
+                                <li><a href="#">Ullamco</a></li>
+                                <li><a href="#">Laboris</a></li>
+                            </ul>
+                        </div>
+                    </div><!--/.col-md-3-->*@
+            </div>
+        </div>
+    </section><!--/#bottom-->
+        <footer id="footer" class="midnight-blue">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        &copy; @DateTime.Now.Year  Euro-Itex
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="pull-right">
+                            <li>@Html.ActionLink(ViewRes.SharedStrings.Home, "Index", "Home")</li>
+                            <li>@Html.ActionLink(ViewRes.SharedStrings.About, "Index", "About")</li>
+                            <li>@Html.ActionLink(ViewRes.SharedStrings.Services, "Index", "Services")</li>
+                            <li>@Html.ActionLink(ViewRes.SharedStrings.Portfolio, "Index", "Portfolio")</li>
+                            <li>@Html.ActionLink(ViewRes.SharedStrings.Contact, "Index", "Contact")</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer><!--/#footer-->
+     @*@if ((string)ViewContext.RouteData.Values["Controller"] == "Portfolio")
+     {
+         @Scripts.Render("~/Scripts/portfolio")
+     }*@
+    
+     
+         @Scripts.Render("~/Scripts/js")
+     
+    
+</body>
+</html>
