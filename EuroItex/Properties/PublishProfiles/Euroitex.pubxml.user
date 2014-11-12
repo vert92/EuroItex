@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANNp17oO+M0WfM6CyQExh/AAAAAACAAAAAAAQZgAAAAEAACAAAAAjBc442E+zpwWM3RE1TMONlxDVXoLkr7kKOJIwxBwLJwAAAAAOgAAAAAIAACAAAABbZZDZOe/VmkjEbSYjV6fYCjtW1Sb2xKEuLO6dYW4yWyAAAAA0vcvYDRYukhQibcyREy62Q0QyPHeKdpjzXaeqpPmwhEAAAADVbNqY20dvJxLPZjyqRXFUAEDpYLflmfOWwxzxyH8I90bkSl/0YHxVKzkV+9m1Vvp0yRQjEEQrypJbFjidSkkz</EncryptedPassword>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr6xeyk3rnUCAX6lXWf0UcwAAAAACAAAAAAAQZgAAAAEAACAAAADBa3FHQuLgGj5/Ohn6Efj4FPpVfiqdGeJbuiJDSUWz0wAAAAAOgAAAAAIAACAAAAAMMYBSt6IRYfP7lG88078hGrOfNcYUKQuNkcOx1AtwJBAAAAAtCm3cILR01UwjB+evV36RQAAAACBfN4CEpJUJx/p+SopAENuMrnt3dXshfKZieb/djy8LQQtWYH/HZ248Ys3mssoO1aPw8Tqq0OSwVAnHeTm1QgQ=</EncryptedPassword>
     <_PublishTargetUrl>ftp://www.euroitex.com/httpdocs</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
